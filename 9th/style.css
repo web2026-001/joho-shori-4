@@ -1,27 +1,13 @@
-<!DOCTYPE html>
+h1 {
+    color: red;
+}
 
-<html lang="ja">
+h2 {
+    color: blue;
+}
 
- <head>
-
-<meta charset="UTF-8">
-
-<title>相島の猫</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1>気まぐれな日常</h1>
-<h2>相島の猫</h2>
-<p>相島は、野良猫が多く参加していることで有名となり、「猫の島」と呼ばれている。</p>
-<figure>
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/0/05/%E7%9B%B8%E5%B3%B6%E3%81%AE%E7%8C%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
-    alt="猫"
-    width="500"
-  >
-  <a href="https://commons.wikimedia.org/wiki/File:%E7%9B%B8%E5%B3%B6%E3%81%AE%E7%8C%AB.jpg">ShinguTown</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-  
-</figure>
-<p>相島の猫</p>
-</body>
-</html>
+p {
+    border: thin green solid;
+    margin: 1em 4em;
+    padding: 0.5em;
+}
